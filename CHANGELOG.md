@@ -1,4 +1,4 @@
-###v1.7.2 (23rd April 2018)
+*##v1.7.2*(23rd April 2018)
 
 - Upgraded to normalize.css v8.0.0
 - Updated dates in templates to 2018
@@ -105,3 +105,4 @@
 
 - Extra comments added to `index.html`
 - Google Analytics moved to bottom of template [#1](https://github.com/iandevlin/html5bones/issues/1)
+ 
